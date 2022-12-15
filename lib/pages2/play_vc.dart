@@ -120,7 +120,7 @@ class _PlayVideoFromNetwork3State extends State<PlayVideoFromNetwork3> {
   }
   @override
   Widget build(BuildContext context) {
-    return Container(color: Colors.black12,
+    return Container(color: Color(0xff282828),
       child: Scaffold(backgroundColor: Colors.transparent,
         body:Column(
           children: [
@@ -142,177 +142,177 @@ class _PlayVideoFromNetwork3State extends State<PlayVideoFromNetwork3> {
             //   Container(height: 200,color: Colors.pinkAccent,),
             //   Container(height: 200,color: Colors.white,),
             // ],),),
-            Container(height: 420,
-              child: ListView(
-                children: [
-                  Stack(
-                    children: [
-                      content("https://cdn-icons-png.flaticon.com/512/25/25645.png", 'Flutter for beginners', "https://i.ytimg.com/an_webp/gsb999VSvh8/mqdefault_6s.webp?du=3000&sqp=CIe6ppwG&rs=AOn4CLDF7Vb2ZyxamwGpkD0X0F53IZfgXw",
-                          'Letter A for beginners', 'iTeam Co-operation','02:03'),
-                      Padding(
-                        padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
-                        child: Center(
-                          child: InkWell(onTap: () {
-                            Navigator.push(context, MaterialPageRoute(builder: (context) {
-                              return PlayVideoFromNetwork3();
-                              ;
-                            },));
-                          },
-                            child: Container(
-                              height: 51,
-                              width: 81,
-                              decoration: BoxDecoration(
-                                  borderRadius: BorderRadius.circular(10),
-                                  color: Color(0xffff0000)),
-                              child: Center(
-                                child: Center(
-                                    child: Icon(
-                                      Icons.play_arrow,
-                                      color: Colors.white,
-                                      size: 35,
-                                    )),
-                              ),
-                            ),
-                          ),
-                        ),
-                      ),
-                    ],
-                  ),
-                  Stack(
-                    children: [
-                      content("https://cdn-icons-png.flaticon.com/512/3522/3522267.png", 'Flutter for beginners', "https://i.ytimg.com/an_webp/RoFz9V_BEG4/mqdefault_6s.webp?du=3000&sqp=CIzSppwG&rs=AOn4CLBWIt9N47dj5L7VgYUNpq5gBS0vgQ",
-                          'Letter B for beginners', 'iTeam Co-operation','02:03'),
-                      Padding(
-                        padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
-                        child: Center(
-                          child: Container(
-                            height: 51,
-                            width: 81,
-                            decoration: BoxDecoration(
-                                borderRadius: BorderRadius.circular(10),
-                                color: Color(0xffff0000)),
-                            child: Center(
-                              child: Center(
-                                  child: Icon(
-                                    Icons.play_arrow,
-                                    color: Colors.white,
-                                    size: 35,
-                                  )),
-                            ),
-                          ),
-                        ),
-                      ),
-                    ],
-                  ),
-                  // Stack(
-                  //   children: [
-                  //     content("https://cdn-icons-png.flaticon.com/512/3524/3524369.png", 'Flutter for beginners', "https://cdn-icons-png.flaticon.com/512/3524/3524369.png",
-                  //         'Letter C for beginners', 'iTeam Co-operation','02:03'),
-                  //     Padding(
-                  //       padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
-                  //       child: Center(
-                  //         child: Container(
-                  //           height: 51,
-                  //           width: 81,
-                  //           decoration: BoxDecoration(
-                  //               borderRadius: BorderRadius.circular(10),
-                  //               color: Color(0xffff0000)),
-                  //           child: Center(
-                  //             child: Center(
-                  //                 child: Icon(
-                  //                   Icons.play_arrow,
-                  //                   color: Colors.white,
-                  //                   size: 35,
-                  //                 )),
-                  //           ),
-                  //         ),
-                  //       ),
-                  //     ),
-                  //   ],
-                  // ),
-                  Stack(
-                    children: [
-                      content("https://cdn-icons-png.flaticon.com/512/3524/3524383.png", 'Flutter for beginners', "https://i.ytimg.com/an_webp/kzzXROKd-i0/mqdefault_6s.webp?du=3000&sqp=CLXkppwG&rs=AOn4CLADNAshQV1wkcmoQ_NgQX7WwLydkQ",
-                          'Letter D for beginners', 'iTeam Co-operation','02:03'),
-                      Padding(
-                        padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
-                        child: Center(
-                          child: Container(
-                            height: 51,
-                            width: 81,
-                            decoration: BoxDecoration(
-                                borderRadius: BorderRadius.circular(10),
-                                color: Color(0xffff0000)),
-                            child: Center(
-                              child: Center(
-                                  child: Icon(
-                                    Icons.play_arrow,
-                                    color: Colors.white,
-                                    size: 35,
-                                  )),
-                            ),
-                          ),
-                        ),
-                      ),
-                    ],
-                  ),
-                  // Stack(
-                  //   children: [
-                  //     content("assets/y2.png", 'Flutter for beginners', "assets/y1",
-                  //         'Flutter for beginners', 'iTeam Co-operation','02:03'),
-                  //     Padding(
-                  //       padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
-                  //       child: Center(
-                  //         child: Container(
-                  //           height: 51,
-                  //           width: 81,
-                  //           decoration: BoxDecoration(
-                  //               borderRadius: BorderRadius.circular(10),
-                  //               color: Color(0xffff0000)),
-                  //           child: Center(
-                  //             child: Center(
-                  //                 child: Icon(
-                  //                   Icons.play_arrow,
-                  //                   color: Colors.white,
-                  //                   size: 35,
-                  //                 )),
-                  //           ),
-                  //         ),
-                  //       ),
-                  //     ),
-                  //   ],
-                  // ),
-                  // Stack(
-                  //   children: [
-                  //     content("assets/y2.png", 'Flutter for beginners', "assets/y1",
-                  //         'Flutter for beginners', 'iTeam Co-operation','02:03'),
-                  //     Padding(
-                  //       padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
-                  //       child: Center(
-                  //         child: Container(
-                  //           height: 51,
-                  //           width: 81,
-                  //           decoration: BoxDecoration(
-                  //               borderRadius: BorderRadius.circular(10),
-                  //               color: Color(0xffff0000)),
-                  //           child: Center(
-                  //             child: Center(
-                  //                 child: Icon(
-                  //                   Icons.play_arrow,
-                  //                   color: Colors.white,
-                  //                   size: 35,
-                  //                 )),
-                  //           ),
-                  //         ),
-                  //       ),
-                  //     ),
-                  //   ],
-                  // ),
-
-
-                ],
-              ),
-            )
+            // Container(height: 420,
+            //   child: ListView(
+            //     children: [
+            //       Stack(
+            //         children: [
+            //           content("https://cdn-icons-png.flaticon.com/512/25/25645.png", 'Flutter for beginners', "https://i.ytimg.com/an_webp/gsb999VSvh8/mqdefault_6s.webp?du=3000&sqp=CIe6ppwG&rs=AOn4CLDF7Vb2ZyxamwGpkD0X0F53IZfgXw",
+            //               'Letter A for beginners', 'iTeam Co-operation','02:03'),
+            //           Padding(
+            //             padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
+            //             child: Center(
+            //               child: InkWell(onTap: () {
+            //                 Navigator.push(context, MaterialPageRoute(builder: (context) {
+            //                   return PlayVideoFromNetwork3();
+            //                   ;
+            //                 },));
+            //               },
+            //                 child: Container(
+            //                   height: 51,
+            //                   width: 81,
+            //                   decoration: BoxDecoration(
+            //                       borderRadius: BorderRadius.circular(10),
+            //                       color: Color(0xffff0000)),
+            //                   child: Center(
+            //                     child: Center(
+            //                         child: Icon(
+            //                           Icons.play_arrow,
+            //                           color: Colors.white,
+            //                           size: 35,
+            //                         )),
+            //                   ),
+            //                 ),
+            //               ),
+            //             ),
+            //           ),
+            //         ],
+            //       ),
+            //       Stack(
+            //         children: [
+            //           content("https://cdn-icons-png.flaticon.com/512/3522/3522267.png", 'Flutter for beginners', "https://i.ytimg.com/an_webp/RoFz9V_BEG4/mqdefault_6s.webp?du=3000&sqp=CIzSppwG&rs=AOn4CLBWIt9N47dj5L7VgYUNpq5gBS0vgQ",
+            //               'Letter B for beginners', 'iTeam Co-operation','02:03'),
+            //           Padding(
+            //             padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
+            //             child: Center(
+            //               child: Container(
+            //                 height: 51,
+            //                 width: 81,
+            //                 decoration: BoxDecoration(
+            //                     borderRadius: BorderRadius.circular(10),
+            //                     color: Color(0xffff0000)),
+            //                 child: Center(
+            //                   child: Center(
+            //                       child: Icon(
+            //                         Icons.play_arrow,
+            //                         color: Colors.white,
+            //                         size: 35,
+            //                       )),
+            //                 ),
+            //               ),
+            //             ),
+            //           ),
+            //         ],
+            //       ),
+            //       // Stack(
+            //       //   children: [
+            //       //     content("https://cdn-icons-png.flaticon.com/512/3524/3524369.png", 'Flutter for beginners', "https://cdn-icons-png.flaticon.com/512/3524/3524369.png",
+            //       //         'Letter C for beginners', 'iTeam Co-operation','02:03'),
+            //       //     Padding(
+            //       //       padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
+            //       //       child: Center(
+            //       //         child: Container(
+            //       //           height: 51,
+            //       //           width: 81,
+            //       //           decoration: BoxDecoration(
+            //       //               borderRadius: BorderRadius.circular(10),
+            //       //               color: Color(0xffff0000)),
+            //       //           child: Center(
+            //       //             child: Center(
+            //       //                 child: Icon(
+            //       //                   Icons.play_arrow,
+            //       //                   color: Colors.white,
+            //       //                   size: 35,
+            //       //                 )),
+            //       //           ),
+            //       //         ),
+            //       //       ),
+            //       //     ),
+            //       //   ],
+            //       // ),
+            //       Stack(
+            //         children: [
+            //           content("https://cdn-icons-png.flaticon.com/512/3524/3524383.png", 'Flutter for beginners', "https://i.ytimg.com/an_webp/kzzXROKd-i0/mqdefault_6s.webp?du=3000&sqp=CLXkppwG&rs=AOn4CLADNAshQV1wkcmoQ_NgQX7WwLydkQ",
+            //               'Letter D for beginners', 'iTeam Co-operation','02:03'),
+            //           Padding(
+            //             padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
+            //             child: Center(
+            //               child: Container(
+            //                 height: 51,
+            //                 width: 81,
+            //                 decoration: BoxDecoration(
+            //                     borderRadius: BorderRadius.circular(10),
+            //                     color: Color(0xffff0000)),
+            //                 child: Center(
+            //                   child: Center(
+            //                       child: Icon(
+            //                         Icons.play_arrow,
+            //                         color: Colors.white,
+            //                         size: 35,
+            //                       )),
+            //                 ),
+            //               ),
+            //             ),
+            //           ),
+            //         ],
+            //       ),
+            //       // Stack(
+            //       //   children: [
+            //       //     content("assets/y2.png", 'Flutter for beginners', "assets/y1",
+            //       //         'Flutter for beginners', 'iTeam Co-operation','02:03'),
+            //       //     Padding(
+            //       //       padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
+            //       //       child: Center(
+            //       //         child: Container(
+            //       //           height: 51,
+            //       //           width: 81,
+            //       //           decoration: BoxDecoration(
+            //       //               borderRadius: BorderRadius.circular(10),
+            //       //               color: Color(0xffff0000)),
+            //       //           child: Center(
+            //       //             child: Center(
+            //       //                 child: Icon(
+            //       //                   Icons.play_arrow,
+            //       //                   color: Colors.white,
+            //       //                   size: 35,
+            //       //                 )),
+            //       //           ),
+            //       //         ),
+            //       //       ),
+            //       //     ),
+            //       //   ],
+            //       // ),
+            //       // Stack(
+            //       //   children: [
+            //       //     content("assets/y2.png", 'Flutter for beginners', "assets/y1",
+            //       //         'Flutter for beginners', 'iTeam Co-operation','02:03'),
+            //       //     Padding(
+            //       //       padding: const EdgeInsets.fromLTRB(0, 80, 0, 0),
+            //       //       child: Center(
+            //       //         child: Container(
+            //       //           height: 51,
+            //       //           width: 81,
+            //       //           decoration: BoxDecoration(
+            //       //               borderRadius: BorderRadius.circular(10),
+            //       //               color: Color(0xffff0000)),
+            //       //           child: Center(
+            //       //             child: Center(
+            //       //                 child: Icon(
+            //       //                   Icons.play_arrow,
+            //       //                   color: Colors.white,
+            //       //                   size: 35,
+            //       //                 )),
+            //       //           ),
+            //       //         ),
+            //       //       ),
+            //       //     ),
+            //       //   ],
+            //       // ),
+            //
+            //
+            //     ],
+            //   ),
+            // )
           ],
         )
 

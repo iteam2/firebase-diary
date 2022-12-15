@@ -5,7 +5,7 @@ import 'package:pod_player/pod_player.dart';
 List<Model> modellist = [
   Model(
       imglogo:
-          'https://yt3.ggpht.com/Uy6RCKEzRA5__6no5gXQr9yLbSDgbp3R0D2x7DSSUAYr2R5T2l6twc1-thZRC27XCE_raj9vuA=s48-c-k-c0x00ffffff-no-rj',
+          'https://lh3.googleusercontent.com/6Wn70RzsgRBd7FQHMGZExusp2DNTii2gHMGofsgRlL6yAcmjPsb3TToZuJvLw6Jr8QkRlf9JUnKXWrIn',
       color: Colors.black12,
       title: "Walete",
       view: 21,
@@ -20,63 +20,65 @@ List<Model> modellist = [
       // ),
       company: '@BigJamTV',
       description:
-          "Could This Be The Solution To Relationship Billings 🤔(Shennels ft Saint Bellington) #shorts",
+          "Winner of the Kizz Daniel Odoyewu Challenge|Please Subscribe #fyp #explore #entertainment Dc: me",
       dislike: 1,
-      imgurl: '',
+      imgurl: 'https://yt3.ggpht.com/ufg1UQfApXGaopZgSP7Pno2Z2d1XJBc6oJAl7yGkciND6Pon2ZcQ6umzvveOY3jdkX-windj4Q=s48-c-k-c0x00ffffff-no-rj',
       like: 88,
-      vidurl: 'https://youtu.be/dVw1trBIUp4'),
+      vidurl: 'https://youtu.be/dcM0yTN2v1c'),
   Model(
     imglogo:
-        'https://yt3.ggpht.com/Uy6RCKEzRA5__6no5gXQr9yLbSDgbp3R0D2x7DSSUAYr2R5T2l6twc1-thZRC27XCE_raj9vuA=s48-c-k-c0x00ffffff-no-rj',
+        'https://yt3.ggpht.com/JmsMVbAAoint1pDEogKS9rkvZ_mVb3WzOkUHlhgHSZ69QNtgqI2RFK07SPfNUmew6gKLUo9jgQ=s48-c-k-c0x00ffffff-no-rj',
     color: Colors.brown,
     title: "Walete",
     view: 21,
     company: 'Austin Dustin',
     description:
-        "Could This Be The Solution To Relationship Billings 🤔(Shennels ft Saint Bellington) #shorts",
+        "Kizz Daniel -Cough Dance cover by TheRagz #kizzdaniel #theragz",
     dislike: 1,
     imgurl:
-        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F4b%2F59%2F22%2F4b5922d22a239def14b8c8fb0e997eb3.png&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F579908889510108099%2F&tbnid=MXK9_bJ2bDFTyM&vet=12ahUKEwiA7JHQuuf7AhUKWhoKHRQzDCsQMygFegUIARDuAQ..i&docid=-hRJlOqV1KCMtM&w=400&h=600&q=image%20person%20on%20suit&client=safari&ved=2ahUKEwiA7JHQuuf7AhUKWhoKHRQzDCsQMygFegUIARDuAQ",
+        "https://yt3.ggpht.com/JmsMVbAAoint1pDEogKS9rkvZ_mVb3WzOkUHlhgHSZ69QNtgqI2RFK07SPfNUmew6gKLUo9jgQ=s48-c-k-c0x00ffffff-no-rj",
     like: 88,
-    vidurl: 'https://www.youtube.com/shorts/cU9LrZyLOtI',
+    vidurl: 'https://youtu.be/0wwPwn6EqKc',
     // controller:
   ),
   Model(
-      imglogo: 'https://yt3.ggpht.com/Uy6RCKEzRA5__6no5gXQr9yLbSDgbp3R0D2x7DSSUAYr2R5T2l6twc1-thZRC27XCE_raj9vuA=s48-c-k-c0x00ffffff-no-rj',
+      imglogo: 'https://yt3.ggpht.com/11Uqwibbyr4QnJ4NpxVi9EvfcDNFWYB6ijqWrdFlQpd-MsJ6_XGAV6yztBnA2YvEUb-m4qcuFQ=s48-c-k-c0x00ffffff-no-rj',
       color: Colors.grey,
       title: "Walete",
       view: 21,
-      company: 'Austin Dustin',
-      description: "Could This Be The Solution To Relationship Billings 🤔(Shennels ft Saint Bellington) #shorts",
+
+
+      company: '@shortssportshd',
+      description: "🤣🤣 Crazy Moments in Women's Football #shorts",
       dislike: 1,
       imgurl:
-      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F4b%2F59%2F22%2F4b5922d22a239def14b8c8fb0e997eb3.png&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F579908889510108099%2F&tbnid=MXK9_bJ2bDFTyM&vet=12ahUKEwiA7JHQuuf7AhUKWhoKHRQzDCsQMygFegUIARDuAQ..i&docid=-hRJlOqV1KCMtM&w=400&h=600&q=image%20person%20on%20suit&client=safari&ved=2ahUKEwiA7JHQuuf7AhUKWhoKHRQzDCsQMygFegUIARDuAQ",
+      "https://yt3.ggpht.com/11Uqwibbyr4QnJ4NpxVi9EvfcDNFWYB6ijqWrdFlQpd-MsJ6_XGAV6yztBnA2YvEUb-m4qcuFQ=s48-c-k-c0x00ffffff-no-rj",
       like: 88,
-      vidurl: 'https://www.youtube.com/shorts/cU9LrZyLOtI'),
+      vidurl: 'https://youtu.be/JgsEk-A7GRM'),
   Model(
-      imglogo: 'https://yt3.ggpht.com/Uy6RCKEzRA5__6no5gXQr9yLbSDgbp3R0D2x7DSSUAYr2R5T2l6twc1-thZRC27XCE_raj9vuA=s48-c-k-c0x00ffffff-no-rj',
+      imglogo: 'https://yt3.ggpht.com/uXeY0CClklEn1pn_K9i6ZBc_6nbV8YLg7SPjhjEJlscrMAHTPG_R6joh6FzwSWMNehwNLcgfrQ=s48-c-k-c0x00ffffff-no-rj',
       color: Colors.black,
       title: "Walete",
       view: 21,
-      company: 'Austin Dustin',
-      description: "Could This Be The Solution To Relationship Billings 🤔(Shennels ft Saint Bellington) #shorts",
+      company: '@MrCla6iqn',
+      description: "Kizz Daniel X Phyna Cough Dance 😷 #shorts #kizzdaniel #RTID",
       dislike: 1,
       imgurl:
-      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F4b%2F59%2F22%2F4b5922d22a239def14b8c8fb0e997eb3.png&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F579908889510108099%2F&tbnid=MXK9_bJ2bDFTyM&vet=12ahUKEwiA7JHQuuf7AhUKWhoKHRQzDCsQMygFegUIARDuAQ..i&docid=-hRJlOqV1KCMtM&w=400&h=600&q=image%20person%20on%20suit&client=safari&ved=2ahUKEwiA7JHQuuf7AhUKWhoKHRQzDCsQMygFegUIARDuAQ",
+      "https://lh3.googleusercontent.com/6Wn70RzsgRBd7FQHMGZExusp2DNTii2gHMGofsgRlL6yAcmjPsb3TToZuJvLw6Jr8QkRlf9JUnKXWrIn",
       like: 88,
-      vidurl: 'https://www.youtube.com/shorts/cU9LrZyLOtI'),
+      vidurl: 'https://youtu.be/WPL9E20mhqg'),
   Model(
-      imglogo: 'https://yt3.ggpht.com/Uy6RCKEzRA5__6no5gXQr9yLbSDgbp3R0D2x7DSSUAYr2R5T2l6twc1-thZRC27XCE_raj9vuA=s48-c-k-c0x00ffffff-no-rj',
+      imglogo: 'https://yt3.ggpht.com/vAj9lCFLEUH_Y4xxK_dWHypNrgfbpvZuUde19CR4ivkIaculPL4euSfSU2X6zV33TVc1hCuDHAE=s48-c-k-c0x00ffffff-no-rj',
       color: Colors.cyan,
       title: "Walete",
       view: 21,
-      company: 'Austin Dustin',
-      description: "Could This Be The Solution To Relationship Billings 🤔(Shennels ft Saint Bellington) #shorts",
+      company: '@notjustokTV',
+      description: "Zlatan talking about how Olamide helped his career🔥🚀 #Shorts",
       dislike: 1,
       imgurl:
-      "https://www.youtube.com/@afterthedowrygh",
+      "https://yt3.ggpht.com/vAj9lCFLEUH_Y4xxK_dWHypNrgfbpvZuUde19CR4ivkIaculPL4euSfSU2X6zV33TVc1hCuDHAE=s48-c-k-c0x00ffffff-no-rj",
       like: 88,
-      vidurl: 'https://www.youtube.com/shorts/cU9LrZyLOtI')
+      vidurl: 'https://youtu.be/lfUEiHhG5O4')
 ];
 
 class explore2 extends StatefulWidget {
@@ -562,10 +564,10 @@ class _ShortPageState extends State<ShortPage> {
                   width: 40,
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(10),
-                      color: Colors.blue,
-                      // image: DecorationImage(
-                      //     image: NetworkImage(model.imgurl),
-                      //     fit: BoxFit.cover)
+
+                      image: DecorationImage(
+                          image: NetworkImage(widget.model.imgurl),
+                          fit: BoxFit.cover)
                   )
 
                   ,
